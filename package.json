@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/magicxin/magic-cli/issues"
   },
-  "homepage": "https://github.com/magicxin/magic-cli#readme"
+  "homepage": "https://github.com/magicxin/magic-cli#readme",
+  "dependencies": {}
 }

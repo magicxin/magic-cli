@@ -1,0 +1,23 @@
+{
+  "name": "magic-cli",
+  "version": "1.0.0",
+  "description": "\"# magic-cli\"",
+  "main": "index.js",
+  "bin": {
+    "magic": "bin/magic.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicxin/magic-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magicxin/magic-cli/issues"
+  },
+  "homepage": "https://github.com/magicxin/magic-cli#readme"
+}

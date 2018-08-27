@@ -10,7 +10,7 @@ This is a project template for [magic-cli](https://github.com/magicxin/magic-cli
 
 ``` bash
 $ npm install -g magicx-cli
-$ magic init my-project
+$ magicx init my-project
 $ cd my-project
 $ npm install
 $ npm run dev
